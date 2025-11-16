@@ -1,4 +1,4 @@
-# 👋 Jalal Eddine Maoukil
+# Jalal Eddine Maoukil
 
 **Full-Stack Developer, Cloud Architect & Entrepreneur**
 
