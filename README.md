@@ -2,7 +2,7 @@
 
 **Full-Stack Developer, Cloud Architect & Entrepreneur**
 
-Building scalable systems and profitable digital experiences—from code to client.
+Building scalable systems and profitable digital experiences from code to client.
 
 ---
 
@@ -35,41 +35,9 @@ From **freelance web design businesses** to **enterprise cloud architectures**, 
 
 ---
 
-## Featured Projects & Ventures
-
-### 💼 Freelance Design & Development Practice
-**Framer | Webflow | Figma | Client Management**
-
-Running an independent web design business—from client acquisition to project delivery. Created conversion-focused websites and marketing materials that increased client engagement by 30% and conversion rates by similar margins.
-
-*Business development · Client relations · Revenue generation · Design systems*
-
-### 🌾 Smart Water & Agriculture Management Platform
-**Azure IoT | React | TypeScript | Real-time Analytics**
-
-Entrepreneurial approach to solving agricultural challenges—building an end-to-end cloud solution combining IoT sensors, real-time data streaming, and serverless architecture. Focused on creating commercially viable SaaS solutions for precision farming.
-
-*Serverless architecture · Product thinking · Scalable infrastructure · Market-ready solution*
-
-### 🚀 Enterprise Solutions @ Leyacom Solutions
-**React | Next.js | Team Leadership | Project Ownership**
-
-Complete ownership of projects from requirements to deployment. Improved code quality by 40% and performance by 30% while managing client expectations and business objectives. Led technical decisions that directly impacted business outcomes.
-
-*Full project ownership · Team mentorship · Business impact · Performance ROI*
-
-### 🏆 Injaz Al-Maghrib Competition Winner
-**Web Design | Marketing | Business Strategy**
-
-Designed and delivered complete digital presence for Injaz Al-Maghrib—combining web development with marketing strategy to achieve 18% average engagement increase. Early experience in competitive business environments.
-
-*Competition success · Marketing integration · Measurable results*
-
----
-
 ## Business Impact
 
-- **30%** conversion rate improvement through strategic UX and business-focused design
+- **30%** conversion rate improvement through strategic UX and business focused design
 - **40%** code quality improvement leading to reduced technical debt and faster feature delivery
 - **30%** performance optimization translating to better user retention
 - **Active freelance practice** managing multiple clients and projects simultaneously
@@ -102,7 +70,7 @@ Whether it's a freelance project or enterprise solution, I approach development 
 
 Open to collaboration, consulting opportunities, and partnerships. Whether you need a technical co-founder, freelance developer, or cloud architecture consultant—let's create something valuable together.
 
-**[Email](mailto:jalaleddinemaoukil@gmail.com)** · **[LinkedIn](https://linkedin.com/in/jalal-eddine-maoukil)**
+**[LinkedIn](https://linkedin.com/in/jalal-eddine-maoukil)**
 
 ---
 
