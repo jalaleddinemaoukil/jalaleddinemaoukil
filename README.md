@@ -72,8 +72,3 @@ Open to collaboration, consulting opportunities, and partnerships. Whether you n
 
 **[LinkedIn](https://linkedin.com/in/jalal-eddine-maoukil)**
 
----
-
-<div align="center">
-  <i>Rabat, Morocco · Available for remote projects & partnerships</i>
-</div>
