@@ -1,13 +1,5 @@
 # Jalal Eddine Maoukil
 
-**Full-Stack Developer, Cloud Architect & Entrepreneur**
-
-Building scalable systems and profitable digital experiences from code to client.
-
----
-
-## About Me
-
 I'm a Cloud & Full-Stack Developer with an entrepreneurial mindset. Over 3 years, I have combined technical expertise with business acumen-delivering solutions that don't just work beautifully but actually drive revenue and growth.
 
 I understand both the code and client, from freelance web design businesses to enterprise cloud architectures. I build systems that scale technically and commercially.
