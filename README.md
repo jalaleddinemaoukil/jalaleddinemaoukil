@@ -1,6 +1,7 @@
-I'm a Cloud & Full-Stack Developer with an entrepreneurial mindset. Over 3 years, I have combined technical expertise with business acumen-delivering solutions that don't just work beautifully but actually drive revenue and growth. From freelance web design businesses to enterprise cloud architectures. I build systems that scale technically and commercially.
+I'm a Cloud & Full-Stack Developer with an entrepreneurial mindset. Over 3 years, I have combined technical expertise with business acumen-delivering solutions that don't just work beautifully but actually drive revenue and growth.
 
 Current ventures:
+
 Running a freelance design & development business, delivering conversion-optimized websites.
 Architecting cloud-native solutions on Azure for real-world IoT applications, Mentoring teams on modern web development and best practices.
 
