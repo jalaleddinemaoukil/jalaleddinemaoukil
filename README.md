@@ -15,7 +15,7 @@ Full-stack engineer specializing in cloud-native IoT architectures (Azure, Supab
 
 ## Entrepreneurial Philosophy
 
-I don't just build features—I build **profitable products**. Every technical decision considers:
+I don’t just create features; I develop **profitable products**. Every technical decision I make takes into account:
 - User experience and conversion optimization
 - Scalability for business growth
 - Maintainability for long-term ROI
@@ -33,10 +33,6 @@ Whether it's a freelance project or an enterprise solution, I approach developme
 - Building products, not just projects
 
 ---
-
-## Let's Talk Business
-
-Open to collaboration, consulting opportunities, and partnerships. Whether you need a technical co-founder, freelance developer, or cloud architecture consultant—let's create something valuable together.
 
 **[LinkedIn](https://linkedin.com/in/jalal-eddine-maoukil)**
 
