@@ -1,4 +1,4 @@
-I'm a Cloud & Full-Stack Developer with an entrepreneurial mindset. Over 3 years, I have combined technical expertise with business acumen-delivering solutions that don't just work beautifully but actually drive revenue and growth.
+I'm a Software Engineer with an entrepreneurial mindset. Over the past three years, I have combined technical expertise with business acumen, delivering solutions that not only work beautifully but also drive revenue and growth.
 
 Current ventures:
 
@@ -14,5 +14,3 @@ I don’t just create features; I develop **profitable products**. Every technic
 - Market fit and client satisfaction
 
 Whether it's a freelance project or an enterprise solution, I approach development with an owner's mindset.
-
-
